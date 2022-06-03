@@ -1,0 +1,8 @@
+F:\vs-Project\Tuple.cs\Tuple.cs\bin\Debug\Tuple.cs.exe.config
+F:\vs-Project\Tuple.cs\Tuple.cs\bin\Debug\Tuple.cs.exe
+F:\vs-Project\Tuple.cs\Tuple.cs\bin\Debug\Tuple.cs.pdb
+F:\vs-Project\Tuple.cs\Tuple.cs\obj\Debug\Tuple.cs.csproj.AssemblyReference.cache
+F:\vs-Project\Tuple.cs\Tuple.cs\obj\Debug\Tuple.cs.csproj.SuggestedBindingRedirects.cache
+F:\vs-Project\Tuple.cs\Tuple.cs\obj\Debug\Tuple.cs.csproj.CoreCompileInputs.cache
+F:\vs-Project\Tuple.cs\Tuple.cs\obj\Debug\Tuple.cs.exe
+F:\vs-Project\Tuple.cs\Tuple.cs\obj\Debug\Tuple.cs.pdb
